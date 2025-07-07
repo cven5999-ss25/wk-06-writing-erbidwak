@@ -2,12 +2,12 @@
 title: "A minimal example"
 date: today
 author: First Last 
-format:
-  html:
-    toc: true
+format: html
 execute:
   warning: false
 editor: visual
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## Data
